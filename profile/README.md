@@ -18,7 +18,7 @@ This organization hosts all components that make up the TLC 8 trading ecosystem.
 
 | Repo | Purpose | Main Tech |
 |------|---------|-----------|
-| [backend-api](https://github.com/Moonixp/bank-trading-application.git) | Core backend logic for end-to-end trading: order validation, routing, matching, execution, and integrations with liquidity providers/exchanges. | Spring Boot |
+| [backend-api](https://github.com/tlc8-trading-system/backend-infrastructure) | Core backend logic for end-to-end trading: order validation, routing, matching, execution, and integrations with liquidity providers/exchanges. | Spring Boot |
 | [web-client](https://github.com/tlc8-trading-system/tlcg5-trading-system-web-client) | Web dashboard for clients, analysts, and operations teams to track orders, view trades, and monitor system health. | React, TypeScript, Vite |
 | [mobile-client](https://github.com/tlc8-trading-system/trading-app-mobile-client) | React Native mobile app offering read-only insights, notifications, and account activity for users and admins. | React Native, Expo |
 
